@@ -1,5 +1,3 @@
-0-print_list_integer.py
-
 #!/usr/bin/python3
 # 0-print_list_integer.py
 
